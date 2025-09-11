@@ -1,3 +1,5 @@
+![Banner](https://github.com/basavraj1831/basavraj1831/blob/main/Banner.png)
+
 <h1 align="center" style="font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 3rem;">
   🧑‍💻 Hi.. I'm <span style="color:#f39c12; font-weight:700;">Basavraj Birajdar</span>
 </h1>
@@ -8,7 +10,7 @@
 
 ---
 
-<img align="right" height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="225" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFjZWR1OWVpYTVrYWkyMWN1MHY5bHJ3NHkwaGh2ZTJhbXU3ZGFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
 <h3 align="left" style="font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 2rem;">
  💫 About Me :
