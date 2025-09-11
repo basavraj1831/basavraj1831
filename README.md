@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="225" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFjZWR1OWVpYTVrYWkyMWN1MHY5bHJ3NHkwaGh2ZTJhbXU3ZGFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
+<img align="right" height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFjZWR1OWVpYTVrYWkyMWN1MHY5bHJ3NHkwaGh2ZTJhbXU3ZGFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
 <h3 align="left" style="font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 2rem;">
  💫 About Me :
