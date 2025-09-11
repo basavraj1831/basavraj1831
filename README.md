@@ -10,7 +10,8 @@
 
 ---
 
-![Coding GIF](https://github.com/basavraj1831/basavraj1831/blob/main/Developer.gif)
+<img align="right" src="https://github.com/basavraj1831/basavraj1831/blob/main/Developer.gif" width="300"/>
+
 
 <h3 align="left" style="font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 2rem;">
  💫 About Me :
